@@ -16,7 +16,7 @@ If it doesn't work for your system, please let us know through GitHub issues (<h
 1. Run in a terminal `sudo apt install cmake`
 2. For a Fortran wrapper, also run in a terminal `sudo apt install gFortran`
 3. For a Python wrapper, also run in a terminal `sudo apt install swig python3-setuptools`
-
+(4.[For Ubuntu 24.04] Run in a terminal, `sudo apt install libopenmpi-dev')
 :::::
 
 :::::{tab-item} OSX
